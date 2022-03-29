@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "Happy Birthday My Love❤️",
     introTitle: 'Mỹ Duyên',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Happy
+   BirthDay 
+To
+My Love`,
     btnIntro: 'Kế Tiếp',
     title: 'Năm nay tụi mình đón sinh nhật với nhau',
     desc: 'Bé có thấy dui khom?',
